@@ -1,0 +1,75 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #85252B;
+	/*general font*/
+	font-family: 'Playfair Display', serif;
+}
+
+/*HEADER*/
+#header-nav {
+	background-color:#2C2147; /*#524CA6;*/
+	border-radius: 0;
+	border: 0;
+	padding: 10px;
+}
+
+.navbar-header .navbar-brand p {
+	color: #fff;
+	font-size: 30px;
+	font-style: italic;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+}
+.navbar-header .navbar-brand p:hover,.navbar-header .navbar-brand p:focus {
+	text-decoration: none;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #fff;
+	text-align: center;
+	padding-bottom: 0;
+}
+#nav-list a:hover {
+	background-color: #85252B;
+}
+
+#nav-list hr {
+	width: 100%;
+	margin-bottom: 0;
+}
+
+/*END HEADER*/
+
+/*HOME*/
+.container h1 {
+	margin-bottom: 30px;
+	margin-top: 15px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 60px;
+}
+#title {
+  box-shadow: 0 0 30px #171226;
+  border: 1px solid #85252B ;
+  background-color: #fff;
+  color: #000000;
+  font-weight: bold;
+  font-style: italic;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+#title h2 {
+	text-align: center;
+	font-weight: bold;
+   font-style: italic;
+
+}
+/*END HOME*/
+
+
+
+
